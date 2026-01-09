@@ -1,0 +1,74 @@
+{
+  "datasets": [
+    {
+      "id": "demo",
+      "label": "Demo (Normalized)",
+      "format": "normalized-demo",
+      "scope": "allGuilds",
+      "notes": "Small normalized snapshots for UI validation."
+    },
+    {
+      "id": "custom",
+      "label": "Custom Raw (stub)",
+      "format": "custom-raw",
+      "scope": "allGuilds",
+      "notes": "Parser not configured yet."
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "demo-2025-01-05",
+      "label": "Jan 2025",
+      "date": "2025-01-05",
+      "format": "normalized-demo",
+      "path": "scans/demo/2025-01.json",
+      "scope": "allGuilds",
+      "datasetId": "demo"
+    },
+    {
+      "id": "demo-2025-02-03",
+      "label": "Feb 2025",
+      "date": "2025-02-03",
+      "format": "normalized-demo",
+      "path": "scans/demo/2025-02.json",
+      "scope": "allGuilds",
+      "datasetId": "demo"
+    },
+    {
+      "id": "demo-2025-03-07",
+      "label": "Mar 2025",
+      "date": "2025-03-07",
+      "format": "normalized-demo",
+      "path": "scans/demo/2025-03.json",
+      "scope": "allGuilds",
+      "datasetId": "demo"
+    },
+    {
+      "id": "demo-2025-04-04",
+      "label": "Apr 2025",
+      "date": "2025-04-04",
+      "format": "normalized-demo",
+      "path": "scans/demo/2025-04.json",
+      "scope": "allGuilds",
+      "datasetId": "demo"
+    },
+    {
+      "id": "demo-2025-05-09",
+      "label": "May 2025",
+      "date": "2025-05-09",
+      "format": "normalized-demo",
+      "path": "scans/demo/2025-05.json",
+      "scope": "allGuilds",
+      "datasetId": "demo"
+    },
+    {
+      "id": "demo-2025-06-06",
+      "label": "Jun 2025",
+      "date": "2025-06-06",
+      "format": "normalized-demo",
+      "path": "scans/demo/2025-06.json",
+      "scope": "allGuilds",
+      "datasetId": "demo"
+    }
+  ]
+}

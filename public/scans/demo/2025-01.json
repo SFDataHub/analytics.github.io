@@ -1,0 +1,97 @@
+{
+  "scannedAt": "2025-01-05T08:00:00Z",
+  "guilds": [
+    {
+      "guildKey": "main",
+      "guildName": "Solaris",
+      "members": [
+        {
+          "playerKey": "1001",
+          "name": "Aria",
+          "server": "EU1",
+          "playerId": "1001",
+          "baseStats": 1200,
+          "level": 20,
+          "mine": 300,
+          "treasury": 180
+        },
+        {
+          "playerKey": "1002",
+          "name": "Bram",
+          "server": "EU1",
+          "playerId": "1002",
+          "baseStats": 1000,
+          "level": 19,
+          "mine": 260,
+          "treasury": 150
+        },
+        {
+          "playerKey": "Cora|EU2",
+          "name": "Cora",
+          "server": "EU2",
+          "playerId": null,
+          "baseStats": 900,
+          "level": 18,
+          "mine": 240,
+          "treasury": 140
+        },
+        {
+          "playerKey": "1004",
+          "name": "Dax",
+          "server": "EU2",
+          "playerId": "1004",
+          "baseStats": 780,
+          "level": 16,
+          "mine": 220,
+          "treasury": 120
+        }
+      ]
+    },
+    {
+      "guildKey": "wing",
+      "guildName": "Noctis",
+      "members": [
+        {
+          "playerKey": "2001",
+          "name": "Eli",
+          "server": "EU1",
+          "playerId": "2001",
+          "baseStats": 950,
+          "level": 18,
+          "mine": 250,
+          "treasury": 150
+        },
+        {
+          "playerKey": "Faye|EU2",
+          "name": "Faye",
+          "server": "EU2",
+          "playerId": null,
+          "baseStats": 820,
+          "level": 17,
+          "mine": 230,
+          "treasury": 135
+        },
+        {
+          "playerKey": "2003",
+          "name": "Gus",
+          "server": "EU1",
+          "playerId": "2003",
+          "baseStats": 760,
+          "level": 16,
+          "mine": 210,
+          "treasury": 120
+        },
+        {
+          "playerKey": "2004",
+          "name": "Hana",
+          "server": "EU3",
+          "playerId": "2004",
+          "baseStats": 700,
+          "level": 15,
+          "mine": 200,
+          "treasury": 110
+        }
+      ]
+    }
+  ]
+}
